@@ -35,4 +35,4 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Image
 
-![Board Image](https://github.com/NemesLaszlo/NemesLaszlo/blob/main/images/board.png)
+![Board Image](images/board.png)
